@@ -1,0 +1,5 @@
+# macOS junk
+.DS_Store
+
+# PyCharm / IntelliJ settings
+.idea/
